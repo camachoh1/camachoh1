@@ -5,8 +5,8 @@
 
 🔭 Most recently, I developed [Splinter](https://github.com/splinter-app), an open-source pipeline designed to simplify the ingestion and processing of unstructured data for AI/ML workflows.
 
-- 🐭 [Explore the Application](https://splinter-app.github.io/) – Discover the mission behind Splinter and how it simplifies complex workflows
-- 💡 [Read the Case Study](https://splinter-app.github.io/case-study) – Dive into the problem domain, architecture, challenges faced, and lessons learned during development
+- 🐭 [Explore the Application](https://splinter-app.github.io/)
+- 💡 [Read the Case Study](https://splinter-app.github.io/case-study)
 
 ## 🌐 Let's Connect:
 
