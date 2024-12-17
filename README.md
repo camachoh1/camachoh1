@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋,  I'm Harold Camacho</h1>
-<p align="center">I'm a software engineer who loves tackling challenges with creativity and precision. I have hands-on experience with a wide range of technologies, including Ruby, TypeScript, Python, PostgreSQL, and more. I truly enjoy problem-solving, continuous learning, and collaborating with global, cross-functional teams to deliver impactful results.</p>
+<p align="center">I am a software engineer passionate about solving complex challenges with creativity and attention to detail. With hands-on experience across a broad spectrum of technologies, I thrive on continuous learning and innovation. I take pride in collaborating with diverse, global teams to deliver impactful solutions and drive meaningful results.</p>
 
 ## 🚀 Latest Project
 
