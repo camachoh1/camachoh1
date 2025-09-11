@@ -20,7 +20,7 @@ Most recently, I developed [Splinter](https://github.com/splinter-app), an open-
 | **Frameworks** | Express.js, Node.js, React, .NET, Sinatra, Gradio |
 | **AI/ML Libraries** | LangChain, LangExtract, NumPy, OpenAI API |
 | **Cloud & DevOps** | AWS Lambda, AWS EC2, AWS ECS, AWS Batch, AWS API Gateway, AWS CDK, AWS S3, DigitalOcean, Nginx, Docker |
-| **Development Tools** | Postman, Jest, RSpec, GitHub, Trello |
+| **Development Tools** | Postman, Jest, RSpec, Git, GitHub, Mercurial, Phabricator, Trello |
 
 ## Let's Connect
 
