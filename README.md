@@ -1,8 +1,6 @@
 <h1 align="center">Hi there! I'm Harold Camacho</h1>
 
-I am a software engineer passionate about solving complex challenges with creativity and attention to detail. With hands-on experience across a broad spectrum of technologies, I thrive on continuous learning and innovation. I take pride in collaborating with diverse, global teams to deliver impactful solutions and drive meaningful results.
-
-Recently contributed to core browser features in Mozilla Firefox, with work featured in the [official release notes](https://www.mozilla.org/en-US/firefox/138.0/releasenotes/).
+Software engineer, co-creator of Splinter, a serverless data-ingestion pipeline for AI applications. Contributor to Mozilla Firefox, with shipped browser features included in official release notes [official release notes](https://www.mozilla.org/en-US/firefox/138.0/releasenotes/). Recently contributed major features to Mastra, an open-source TypeScript framework for building AI agents, workflows, and MCP servers. Additional experience building RAG-based AI chatbots using structured and semantic retrieval for accurate, context-aware responses.
 
 ## Latest Project
 
